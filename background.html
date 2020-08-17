@@ -21,6 +21,8 @@
 	<!-- GIS stuff below -->
 	<link rel="stylesheet" href="https://unpkg.com/leaflet@0.7.7/dist/leaflet.css" />
 	<script src="https://unpkg.com/leaflet@0.7.7/dist/leaflet.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> <!-- likely not needed-->
+    <script src="tatapouri.geojson" type="text/javascript"></script>
 
 	<link rel="stylesheet" href="style.css">
 
@@ -41,6 +43,22 @@
 
 <h2>Background</h2>
 <p>Background goes here!</p>
+
+<div id="map" style="width: 75vw; height: 75vh; margin: 0 auto;"></div>
+
+<script type="text/javascript">
+    var map = L.map('map').setView([-38.6500, 178.1431], 15);
+
+    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+		attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+		}).addTo(map);
+
+    var tatapouri = new L.LayerGroup();
+    L.geoJson(tatapouri).addTo(tatapouri);
+    L.geoJson(tatapouri).addTo(map);
+
+</script>
+
 </body>
 
 </html>
