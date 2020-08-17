@@ -47,15 +47,15 @@
 <div id="map" style="width: 75vw; height: 75vh; margin: 0 auto;"></div>
 
 <script type="text/javascript">
-    var map = L.map('map').setView([-38.6500, 178.1431], 15);
+    var tatapouriMap = L.map('map').setView([-38.6500, 178.1431], 15);
 
     L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
 		attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
-		}).addTo(map);
+    }).addTo(tatapouriMap);
 
-    var tatapouri = new L.LayerGroup();
-    L.geoJson(tatapouri).addTo(tatapouri);
-    L.geoJson(tatapouri).addTo(map);
+    $.getJSON("tatapouri.geojson",function(data){
+        L.geoJson(data).addTo(tatapouriMap);
+    });
 
 </script>
 
