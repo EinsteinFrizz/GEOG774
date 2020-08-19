@@ -29,6 +29,19 @@ td {	text-align: center;
 		}
 a.navlink:link {color: black; text-decoration: none;}
 a.navlink:visited {color: black; text-decoration: none;}
-.navlink:hover {
-		background-color: yellow;
+.navlink1:hover {background-color: var(--graph-blue);}
+.navlink2:hover {background-color: var(--graph-green);}
+.navlink3:hover {background-color: var(--graph-yellow);}
+.navlink4:hover {background-color: var(--graph-orange);}
+.navlink5:hover {background-color: var(--graph-pink);}
+
+/* colours */
+:root {
+	--graph-purple: #a4036f;
+	--graph-blue: #048ba8;
+	--graph-aqua: #16db93;
+	--graph-green: #8ea604;
+	--graph-yellow: #ffbf00;
+	--graph-orange: #fb6107;
+	--graph-pink: #d81e5b;
 }
