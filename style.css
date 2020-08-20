@@ -5,7 +5,7 @@ body {
 	}
 figcaption{
 		display: block;
-		margin-left: 2vw;
+		text-align: center;
 		margin-top: 1vw;
 		font-style: italic;
 	}
