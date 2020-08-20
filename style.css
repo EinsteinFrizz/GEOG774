@@ -42,7 +42,7 @@ td {	text-align: center;
 		font-size: 2em;
 		font-family: "Coda";
 	}
-.code {
+.verbatim {
 		font-family: "Lekton", monospace;
 		font-size: 1.5em;
 		font-weight: bold;
