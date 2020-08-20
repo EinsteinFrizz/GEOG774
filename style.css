@@ -47,6 +47,21 @@ td {	text-align: center;
 		font-size: 2em;
 		font-family: "Coda";
 	}
+ul {
+		font-size: 1.25em;
+		list-style: none;
+		margin-top: -0.5em;
+		list-style-type: "- ";
+	}
+/*li {
+		padding-left: 1em;
+		text-indent: -1em;
+	}
+li:before {
+		content: "- ";
+		padding-right: 1em;
+		position: absolute;
+	} */
 .verbatim {
 		font-family: "Lekton", monospace;
 		font-size: 1.5em;
