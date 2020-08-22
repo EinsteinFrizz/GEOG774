@@ -33,7 +33,24 @@
 </table>
 
 <h2>Results</h2>
-<p>Results go here!</p>
+<p>The following graph (also shown in <a href="method.html"><i>Method</i></a> ) shows an example of the data that was analysed. The data is shown for three out of the six sensors only, as this waveform was not able to be identified on the other three sensors.</p>
+
+<figure>
+	<img src="70s_composite_graphs.png" alt="Three graphs showing their analysis" style="width:60vw">
+	<figcaption>A section of data through the process of analysis.</figcaption>
+</figure>
+
+<p>Since these waveforms have been corrected for time delay and normalised for height, the relationship of their similarity should be linear, meaning an R<sup>2</sup> value is an adequate measure of correlation.</p>
+
+<figure>
+	<img src="r2values.png" alt="Three scatter plots showing the correlation of datapoints from two sensors each" style="width:60vw">
+	<figcaption>Scatter plots comparing the normalised values from each sensor at a given point in time.</figcaption>
+</figure>
+
+<p>Ideally, if the waveforms are identical, all of the points on the above graphs would fall exactly on the line <span class="verbatim">y = x</span>.<br>
+The gradient of these lines shows temporal stretching due to slowing down of the waves, and the scater of the points, measured by the R<sup>2</sup> values, indicates how similar the waveforms are between the two sensors being compared in each graph.<br>
+The amount of scatter in these plots is suprising, and the R<sup>2</sup> values are low, meaning there is a relatively weak match between the waveforms shown above.</p>
+
 </body>
 
 </html>

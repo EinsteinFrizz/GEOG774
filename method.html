@@ -33,7 +33,8 @@
 </table>
 
 <h2>Method</h2>
-<p>Method goes here!</p>
+<h3>Pressure Sensors</h3>
+<p>This study was undertaken by placing six pressure sensors at various locations on the shore platform, and then analysing their data. Pressure sensors record the combined atmospheric and water pressure above them over time. This data can be used to reconstruct the water level, and, by extension, the waves passing over the sensor at any time.</p>
 <p>Tatapouri shore platform has several notable features, including:
 <div style="margin-left: 2em"><ul>
 	<li><b>Platform</b><br>The main surface of rock encompassing the headland at Tatapouri. Three pressure sensors were placed in a transect line extending outward from the headland across most of the width of the platform.</li>
@@ -42,6 +43,33 @@
 </p>
 
 <div id="map" style="width: 75vw; height: 75vh; margin: 0 auto;"></div>
+
+<p>The above map depicts the features of the shore platform, and the location of each of the six pressure sensors.<br>
+As there was a group of students completing studies at this platform, the placement of sensors was largely based on the group's needs. Therefore, there were two sensors placed at the ends of the hole, three sensors along a transect on the platform, and one sensor across the platform for my study.</p>
+
+<h3>Data</h3>
+<p>The data from these pressure sensors was initially passed through a program that converts the raw data into water height. Waves can be seen in this output, visible in the graph below.</p>
+
+<figure>
+	<img src="rawdatagraph.png" alt="Graph of the pressure sensor data from all six sensors over a period of two minutes" style="width:60vw">
+	<figcaption>Two minutes of pressure sensor data, taken near high tide.</figcaption>
+</figure>
+
+<h3>Processing</h3>
+<p>Initial filtering of the data was performed using a Butterworth filter with a critical value of 0.05&nbsp;Hz to isolate the infragravity waves.<br>
+The generated data was processed in a manner following a simpler version of the method used by music-recognition service <i>Shazam</i>. The process undertaken is as follows:
+<ol>
+	<li>Generate a line showing infragravity waves at each pressure sensor for a given duration.</li>
+	<li>Choose an anchor point near a unique, recognisable waveform.</li>
+	<li>Match this waveform with the lines of other sensors, and determine the time delay between that waveform reaching the first pressure sensor and any others it appears on.</li>
+	<li>Based on this, infer the direction of wave travel, and any refraction that may have occurred.</li>
+</ol></p>
+<p>An outline of this process can be seen in the figure below.</p>
+
+<figure>
+	<img src="70s_composite_graphs.png" alt="Three graphs showing steps of the process to determine wave propagation" style="width:60vw">
+	<figcaption>An example of steps 2 and 3 of the process outlined above.</figcaption>
+</figure>
 
 <script type="text/javascript">
     var tatapouriMap = L.map('map').setView([-38.6500, 178.1431], 15);
