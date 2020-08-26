@@ -1,4 +1,4 @@
-{
+var tatapouri = {
   "type": "FeatureCollection",
   "features": [
     {
