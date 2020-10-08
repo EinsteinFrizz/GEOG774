@@ -158,7 +158,7 @@ stoplist = set("a about above after again against all am an and any are aren\'t 
 s = ""
 for w in stoplist:
     s += w + " "
-    stoplist = set.(s.split())
+    stoplist = set(s.split())
 
 #tokenise
 texts = [[word for word in document.lower().split() if word not in stoplist] for document in documents]
@@ -167,7 +167,7 @@ logging.info("CORPUS SIZE AFTER STOPLIST: "+str(len(texts)))
 #remove words that appear once
 all_tokens = sum(texts, [])
 logging.info("beginning tokenisation")
-tokens_once = set(word for word in set(all_tokens) if all_tokens.count(wor) == 1)
+tokens_once = set(word for word in set(all_tokens) if all_tokens.count(word) == 1)
 logging.info("words tokenised, starting single mentioned word reduction")
 texts = [[word for word in text if word not in tokens_once] for text in texts]
 logging.info("words mentioned only once removed")
@@ -179,12 +179,12 @@ corpus = [dictionary.doc2bow(text) for text in texts]
 
 tfidf = models.TfidfModel(corpus) #initialise the model
 
-corpus_tfdif = tfdif[corpus] #apply TFDIF transform to the entire corpus
+corpus_tfidf = tfidf[corpus] #apply TFIDF transform to the entire corpus
 
 #actually run the model
-logging.info(len(corpus_tfdif))
+logging.info(len(corpus_tfidf))
 logging.info("starting LDA model")
 
-model = models. ldamodel.LdsModel(corpus_tfdif, id2word=dictionary, alpha=0.001, num_topics=10, update_every=0, passes=50)
+model = models. ldamodel.LdsModel(corpus_tfidf, id2word=dictionary, alpha=0.001, num_topics=10, update_every=0, passes=50)
 
 pp(model.show_topics())
