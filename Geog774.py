@@ -85,7 +85,7 @@ conn = psycopg2.connect(connString) #reopen that connection
 curr = conn.cursor()
 
 #formatting stuffs
-sql = "CREATE TABLE public.yelp_data \
+sql = "DROP TABLE IF EXISTS public.yelp_data; CREATE TABLE public.yelp_data \
 ( \
     geom geometry, \
     oid serial NOT NULL, \
@@ -93,6 +93,7 @@ sql = "CREATE TABLE public.yelp_data \
     name character varying, \
     url character varying, \
     price character varying, \
+    rating character varying, \
     category character varying, \
     review1 character varying, \
     review2 character varying, \
@@ -127,7 +128,7 @@ for b in payload_review[1:] :
     sqlString = "ST_GeomFromText(\'POINT("+str(b[6])+" "+str(b[5])+")\',4326),\' "+b[1]+" \' ,$$"+b[0]+" \
         $$,\'"+b[3]+"\',\'"+b[4]+"\', \'"+b[2]+"\','"+b[7]+"\',$$"+b[8]+"$$,$$"+b[9]+"$$,$$"+b[10]+"$$"
     sql = "INSERT INTO yelp_data(geom,busid,name,url,price,rating,category,review1,review2,review3) \
-        VALUES(sqlString)"
+        VALUES("+sqlString+")"
     curr.execute(sql)
     
     conn.commit()
