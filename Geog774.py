@@ -132,3 +132,24 @@ for b in payload_review[1:] :
     curr.execute(sql)
     
     conn.commit()
+    
+# %% IMPORTING DATA
+logging.info("Starting GENSIM code")
+documents = []
+conn = psycopg2.connect(connString)
+curr = conn.cursor()
+curr.execute("SELECT review1,review2,review3 FROM yelp_data")
+review_data = []
+for i in curr:
+    if i[0] != 'null': review_data.append(i[0])
+    if i[1] != 'null': review_data.append(i[1])
+    if i[2] != 'null': review_data.append(i[2])
+
+logging.info("%s reviews received" , len(review_data))
+conn.close()
+
+# %% STOPLIST STUFF
+for review in review_data:
+    documents.append(' '.join(re.sub("(@[A-Za-z0-9]+)|([^0-9A-Za-z \t])|(\w+:\/\/\S+)|(gt)"," ",review).split()).lower())
+    
+logging.info("CORPUS SIZE AFTER REGEX: "+str(len(documents)))
