@@ -4,7 +4,7 @@ Created on Wed Sep 30 12:43:06 2020
 
 @author: apee461
 """
-#currently up to sending the data to PostGIS database - IP changed from localost to actual address however error due to not accepting TCP/IP on the port
+#currently up to running the model
 # %% IMPORTING PACKAGES
 import requests #internet data requests
 import psycopg2 #connect to PostGIS database
@@ -153,3 +153,38 @@ for review in review_data:
     documents.append(' '.join(re.sub("(@[A-Za-z0-9]+)|([^0-9A-Za-z \t])|(\w+:\/\/\S+)|(gt)"," ",review).split()).lower())
     
 logging.info("CORPUS SIZE AFTER REGEX: "+str(len(documents)))
+
+stoplist = set("a about above after again against all am an and any are aren\'t as at be because been before being below between both but by can\'t cannot could couldn\'t did didn\'t do does doesn\'t doing don\'t down during each few for from further had hadn\'t has hasn\'t have haven\'t having he he'd he\'ll he\'s her here here\'s hers herself him himself his how how\'s i i\'d i\'ll i\'m i\'ve if in into is isn\'t it it\'s its itself let\'s me more most mustn't my myself no nor not of off on once only or other ought our ours ourselves out over own same shan\'t she she\'d she\'ll she\'s should shouldn\'t so some something such than that that\'s the their theirs them themselves then there there\'s these they they\'d they\'ll they're they\'ve this those through to too under until up very was wasn\'t we we\'d we\'ll we\'re we\'ve were weren\'t what what\'s when when\'s where where\'s which while who who\'s whom why why\'s with won\'t would wouldn\'t you you\'d you\'ll you\'re you\'ve your yours yourself yourselves a b c d e f g h i j k l m n o p q r s t u v w x y z don que con en de le sus el re ll rt si go can la ve hi ur dis ain es wanna couldn thx je te ese rn tu ya lo como por pm ca amp como me je oye mi del tho un une da los doin yo nah im lt da se su thru vs una mas uno imma didn ni para tira pa las nos esto dm say know like ima just thought tx way whats say get said dem esta going dont get san qu bien even mf yea good seems knew thing except san yay sabes really yes mis soy vaz em wasn xo got goes need never il ah hey doesn vos keep already telling keeps people much think talk will estar cuando telling shouldno ida llevar much talk feel every someone oh haha miss cause ser tiempo now told come back one al watching thank cant back looks great much mean plase seb dormir ser plzz thanks new literally soon take must time try still end join tbt see las right look anything anymore better tag make makes sure start okay aren give hard pretty let finally start many ever na ng ko stop looking seeing actually things ha probably tonight nice today says ready without done everyone nothing tilltell meet coming others next absolutely hoy bye ma made tug yeah enjoy lil late day side piece find shout dude dudes appearently favourite definitely 0 1 2 3 4 5 6 7 8 9 tell find words want met gea leave please guys guy us sounds otherwise big name amazing missing biyi isn happened besides donde via vamos sleep bed morning put hours finna af phil saying amor est mine iight put joe fuck fucking shit stay stand row wear via hours aqui hay monday tuesday wednesday thursday friday saturday sunday remember close long jerry centro last omg lol lmfao rofl place seen early gotta whole ones stand ok wait lmao year trippin hasta messing lame ugh yet wtf idk act bae away anyone bring damn ig pues alright tf might xd wrong starting little maybe gets sometimes known getting whatever later together left gonna else tf anybody nobodyana starting whatever needs casa happiest bout lefttil eso almost everybody till swear yall around excited best wrong follow far annoying pls gonna favorite babe maybe wants".split())
+s = ""
+for w in stoplist:
+    s += w + " "
+    stoplist = set.(s.split())
+
+#tokenise
+texts = [[word for word in document.lower().split() if word not in stoplist] for document in documents]
+logging.info("CORPUS SIZE AFTER STOPLIST: "+str(len(texts)))
+
+#remove words that appear once
+all_tokens = sum(texts, [])
+logging.info("beginning tokenisation")
+tokens_once = set(word for word in set(all_tokens) if all_tokens.count(wor) == 1)
+logging.info("words tokenised, starting single mentioned word reduction")
+texts = [[word for word in text if word not in tokens_once] for text in texts]
+logging.info("words mentioned only once removed")
+
+logging.info("CORPUS SIZE AFTER EMPTY ROWS REMOVED: "+str(len(texts)))
+dictionary = corpora.Dictionary(texts)
+
+corpus = [dictionary.doc2bow(text) for text in texts]
+
+tfidf = models.TfidfModel(corpus) #initialise the model
+
+corpus_tfdif = tfdif[corpus] #apply TFDIF transform to the entire corpus
+
+#actually run the model
+logging.info(len(corpus_tfdif))
+logging.info("starting LDA model")
+
+model = models. ldamodel.LdsModel(corpus_tfdif, id2word=dictionary, alpha=0.001, num_topics=10, update_every=0, passes=50)
+
+pp(model.show_topics())
