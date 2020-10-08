@@ -60,3 +60,1194 @@ DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
 DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ReceDS80NBWyu2OltS2Iqw/reviews HTTP/1.1" 200 None
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
 DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/tOH-nibpTVyndDiKjRJQOA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/search?latitude=-36.872&longitude=174.74&limit=50&radius=500 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/1EdG8FX6ZyzNWf9V1gAELA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/R42-XBPiaXSkoswWDHarbw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/J02aF92F2IVz6ScDN_E8bQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/uEiZMK6ufqog7_0rvDUovw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/dyCEskWw2s7CFfXzjVsKQA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/pE4V-i9LUVHkjh0IA__FLw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/OtGXe_XktxbKZer7gSiO-g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Mr98VyYfJWnEyoUR6Md8dQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/AnHxckHmodFabIQG-OOlaw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/2dh8CUU5qONO-lrFVtHSTg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/j-5hSRDCA_MFwuMtUnpCAw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/w_U3deEmt64ujLmvMEe0-g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Ww840HGUyqmsiULgcdx8ow/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/wafbvhkRyMp4nadYv7r9ZQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/dbKe6dYQo3YtHT8GfwRkCw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/T9tWsKMBSy4rCararRsKqg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/mE6i2YYY5SiujEXKc4puAg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/k-j8gbu4lTsMt3o309AFPA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/JDiCYT2lOQV_ELpXe3l4mQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/AZQAlMyqre2Ei9bAFtuh1Q/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/P5NL-NUER3WETcamS-vQaw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/8AjYq9Jlw1HdaaO0Pk5kfw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/CjqypKXfd-sqFrBORhlLug/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/MkuyYxjdi8JfopLtvEKIiw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/6WD0PL4iVe4VflCvG9YHDQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Eltf2tCssy0znGIEzF5olA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Beb8fQTrbDenuiJjZGGSwQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ShQVSRfcrS6VHXSIU20B1g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ReceDS80NBWyu2OltS2Iqw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/tOH-nibpTVyndDiKjRJQOA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/search?latitude=-36.872&longitude=174.74&limit=50&radius=500 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/1EdG8FX6ZyzNWf9V1gAELA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/R42-XBPiaXSkoswWDHarbw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/J02aF92F2IVz6ScDN_E8bQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/uEiZMK6ufqog7_0rvDUovw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/dyCEskWw2s7CFfXzjVsKQA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/pE4V-i9LUVHkjh0IA__FLw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/OtGXe_XktxbKZer7gSiO-g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Mr98VyYfJWnEyoUR6Md8dQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/AnHxckHmodFabIQG-OOlaw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/2dh8CUU5qONO-lrFVtHSTg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/j-5hSRDCA_MFwuMtUnpCAw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/w_U3deEmt64ujLmvMEe0-g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Ww840HGUyqmsiULgcdx8ow/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/wafbvhkRyMp4nadYv7r9ZQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/dbKe6dYQo3YtHT8GfwRkCw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/T9tWsKMBSy4rCararRsKqg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/mE6i2YYY5SiujEXKc4puAg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/k-j8gbu4lTsMt3o309AFPA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/JDiCYT2lOQV_ELpXe3l4mQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/AZQAlMyqre2Ei9bAFtuh1Q/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/P5NL-NUER3WETcamS-vQaw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/8AjYq9Jlw1HdaaO0Pk5kfw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/CjqypKXfd-sqFrBORhlLug/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/MkuyYxjdi8JfopLtvEKIiw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/6WD0PL4iVe4VflCvG9YHDQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Eltf2tCssy0znGIEzF5olA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Beb8fQTrbDenuiJjZGGSwQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ShQVSRfcrS6VHXSIU20B1g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ReceDS80NBWyu2OltS2Iqw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/tOH-nibpTVyndDiKjRJQOA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/search?latitude=-36.872&longitude=174.74&limit=50&radius=500 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/1EdG8FX6ZyzNWf9V1gAELA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/R42-XBPiaXSkoswWDHarbw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/J02aF92F2IVz6ScDN_E8bQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/uEiZMK6ufqog7_0rvDUovw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/dyCEskWw2s7CFfXzjVsKQA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/pE4V-i9LUVHkjh0IA__FLw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/OtGXe_XktxbKZer7gSiO-g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Mr98VyYfJWnEyoUR6Md8dQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/AnHxckHmodFabIQG-OOlaw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/2dh8CUU5qONO-lrFVtHSTg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/j-5hSRDCA_MFwuMtUnpCAw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/w_U3deEmt64ujLmvMEe0-g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Ww840HGUyqmsiULgcdx8ow/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/wafbvhkRyMp4nadYv7r9ZQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/dbKe6dYQo3YtHT8GfwRkCw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/T9tWsKMBSy4rCararRsKqg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/mE6i2YYY5SiujEXKc4puAg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/k-j8gbu4lTsMt3o309AFPA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/JDiCYT2lOQV_ELpXe3l4mQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/AZQAlMyqre2Ei9bAFtuh1Q/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/P5NL-NUER3WETcamS-vQaw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/8AjYq9Jlw1HdaaO0Pk5kfw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/CjqypKXfd-sqFrBORhlLug/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/MkuyYxjdi8JfopLtvEKIiw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/6WD0PL4iVe4VflCvG9YHDQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Eltf2tCssy0znGIEzF5olA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Beb8fQTrbDenuiJjZGGSwQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ShQVSRfcrS6VHXSIU20B1g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ReceDS80NBWyu2OltS2Iqw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/tOH-nibpTVyndDiKjRJQOA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/search?latitude=-36.872&longitude=174.74&limit=50&radius=500 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/1EdG8FX6ZyzNWf9V1gAELA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/R42-XBPiaXSkoswWDHarbw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/J02aF92F2IVz6ScDN_E8bQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/uEiZMK6ufqog7_0rvDUovw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/dyCEskWw2s7CFfXzjVsKQA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/pE4V-i9LUVHkjh0IA__FLw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/OtGXe_XktxbKZer7gSiO-g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Mr98VyYfJWnEyoUR6Md8dQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/AnHxckHmodFabIQG-OOlaw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/2dh8CUU5qONO-lrFVtHSTg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/j-5hSRDCA_MFwuMtUnpCAw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/w_U3deEmt64ujLmvMEe0-g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Ww840HGUyqmsiULgcdx8ow/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/wafbvhkRyMp4nadYv7r9ZQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/dbKe6dYQo3YtHT8GfwRkCw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/T9tWsKMBSy4rCararRsKqg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/mE6i2YYY5SiujEXKc4puAg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/k-j8gbu4lTsMt3o309AFPA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/JDiCYT2lOQV_ELpXe3l4mQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/AZQAlMyqre2Ei9bAFtuh1Q/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/P5NL-NUER3WETcamS-vQaw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/8AjYq9Jlw1HdaaO0Pk5kfw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/CjqypKXfd-sqFrBORhlLug/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/MkuyYxjdi8JfopLtvEKIiw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/6WD0PL4iVe4VflCvG9YHDQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Eltf2tCssy0znGIEzF5olA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Beb8fQTrbDenuiJjZGGSwQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ShQVSRfcrS6VHXSIU20B1g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ReceDS80NBWyu2OltS2Iqw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/tOH-nibpTVyndDiKjRJQOA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/search?latitude=-36.872&longitude=174.74&limit=50&radius=500 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/1EdG8FX6ZyzNWf9V1gAELA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/R42-XBPiaXSkoswWDHarbw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/J02aF92F2IVz6ScDN_E8bQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/uEiZMK6ufqog7_0rvDUovw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/dyCEskWw2s7CFfXzjVsKQA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/pE4V-i9LUVHkjh0IA__FLw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/OtGXe_XktxbKZer7gSiO-g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Mr98VyYfJWnEyoUR6Md8dQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/AnHxckHmodFabIQG-OOlaw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/2dh8CUU5qONO-lrFVtHSTg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/j-5hSRDCA_MFwuMtUnpCAw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/w_U3deEmt64ujLmvMEe0-g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Ww840HGUyqmsiULgcdx8ow/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/wafbvhkRyMp4nadYv7r9ZQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/dbKe6dYQo3YtHT8GfwRkCw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/T9tWsKMBSy4rCararRsKqg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/mE6i2YYY5SiujEXKc4puAg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/k-j8gbu4lTsMt3o309AFPA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/JDiCYT2lOQV_ELpXe3l4mQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/AZQAlMyqre2Ei9bAFtuh1Q/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/P5NL-NUER3WETcamS-vQaw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/8AjYq9Jlw1HdaaO0Pk5kfw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/CjqypKXfd-sqFrBORhlLug/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/MkuyYxjdi8JfopLtvEKIiw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/6WD0PL4iVe4VflCvG9YHDQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Eltf2tCssy0znGIEzF5olA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Beb8fQTrbDenuiJjZGGSwQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ShQVSRfcrS6VHXSIU20B1g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ReceDS80NBWyu2OltS2Iqw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/tOH-nibpTVyndDiKjRJQOA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/search?latitude=-36.872&longitude=174.74&limit=50&radius=500 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/1EdG8FX6ZyzNWf9V1gAELA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/R42-XBPiaXSkoswWDHarbw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/J02aF92F2IVz6ScDN_E8bQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/uEiZMK6ufqog7_0rvDUovw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/dyCEskWw2s7CFfXzjVsKQA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/pE4V-i9LUVHkjh0IA__FLw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/OtGXe_XktxbKZer7gSiO-g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Mr98VyYfJWnEyoUR6Md8dQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/AnHxckHmodFabIQG-OOlaw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/2dh8CUU5qONO-lrFVtHSTg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/j-5hSRDCA_MFwuMtUnpCAw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/w_U3deEmt64ujLmvMEe0-g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Ww840HGUyqmsiULgcdx8ow/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/wafbvhkRyMp4nadYv7r9ZQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/dbKe6dYQo3YtHT8GfwRkCw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/T9tWsKMBSy4rCararRsKqg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/mE6i2YYY5SiujEXKc4puAg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/k-j8gbu4lTsMt3o309AFPA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/JDiCYT2lOQV_ELpXe3l4mQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/AZQAlMyqre2Ei9bAFtuh1Q/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/P5NL-NUER3WETcamS-vQaw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/8AjYq9Jlw1HdaaO0Pk5kfw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/CjqypKXfd-sqFrBORhlLug/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/MkuyYxjdi8JfopLtvEKIiw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/6WD0PL4iVe4VflCvG9YHDQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Eltf2tCssy0znGIEzF5olA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Beb8fQTrbDenuiJjZGGSwQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ShQVSRfcrS6VHXSIU20B1g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ReceDS80NBWyu2OltS2Iqw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/tOH-nibpTVyndDiKjRJQOA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/search?latitude=-36.872&longitude=174.74&limit=50&radius=500 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/1EdG8FX6ZyzNWf9V1gAELA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/R42-XBPiaXSkoswWDHarbw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/J02aF92F2IVz6ScDN_E8bQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/uEiZMK6ufqog7_0rvDUovw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/dyCEskWw2s7CFfXzjVsKQA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/pE4V-i9LUVHkjh0IA__FLw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/OtGXe_XktxbKZer7gSiO-g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Mr98VyYfJWnEyoUR6Md8dQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/AnHxckHmodFabIQG-OOlaw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/2dh8CUU5qONO-lrFVtHSTg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/j-5hSRDCA_MFwuMtUnpCAw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/w_U3deEmt64ujLmvMEe0-g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Ww840HGUyqmsiULgcdx8ow/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/wafbvhkRyMp4nadYv7r9ZQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/dbKe6dYQo3YtHT8GfwRkCw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/T9tWsKMBSy4rCararRsKqg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/mE6i2YYY5SiujEXKc4puAg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/k-j8gbu4lTsMt3o309AFPA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/JDiCYT2lOQV_ELpXe3l4mQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/AZQAlMyqre2Ei9bAFtuh1Q/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/P5NL-NUER3WETcamS-vQaw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/8AjYq9Jlw1HdaaO0Pk5kfw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/CjqypKXfd-sqFrBORhlLug/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/MkuyYxjdi8JfopLtvEKIiw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/6WD0PL4iVe4VflCvG9YHDQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Eltf2tCssy0znGIEzF5olA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Beb8fQTrbDenuiJjZGGSwQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ShQVSRfcrS6VHXSIU20B1g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ReceDS80NBWyu2OltS2Iqw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/tOH-nibpTVyndDiKjRJQOA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/search?latitude=-36.872&longitude=174.74&limit=50&radius=500 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/1EdG8FX6ZyzNWf9V1gAELA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/R42-XBPiaXSkoswWDHarbw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/J02aF92F2IVz6ScDN_E8bQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/uEiZMK6ufqog7_0rvDUovw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/dyCEskWw2s7CFfXzjVsKQA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/pE4V-i9LUVHkjh0IA__FLw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/OtGXe_XktxbKZer7gSiO-g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Mr98VyYfJWnEyoUR6Md8dQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/AnHxckHmodFabIQG-OOlaw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/2dh8CUU5qONO-lrFVtHSTg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/j-5hSRDCA_MFwuMtUnpCAw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/w_U3deEmt64ujLmvMEe0-g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Ww840HGUyqmsiULgcdx8ow/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/wafbvhkRyMp4nadYv7r9ZQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/dbKe6dYQo3YtHT8GfwRkCw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/T9tWsKMBSy4rCararRsKqg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/mE6i2YYY5SiujEXKc4puAg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/k-j8gbu4lTsMt3o309AFPA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/JDiCYT2lOQV_ELpXe3l4mQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/AZQAlMyqre2Ei9bAFtuh1Q/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/P5NL-NUER3WETcamS-vQaw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/8AjYq9Jlw1HdaaO0Pk5kfw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/CjqypKXfd-sqFrBORhlLug/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/MkuyYxjdi8JfopLtvEKIiw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/6WD0PL4iVe4VflCvG9YHDQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Eltf2tCssy0znGIEzF5olA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Beb8fQTrbDenuiJjZGGSwQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ShQVSRfcrS6VHXSIU20B1g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ReceDS80NBWyu2OltS2Iqw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/tOH-nibpTVyndDiKjRJQOA/reviews HTTP/1.1" 200 None
+INFO:root:Starting GENSIM code
+INFO:root:76 reviews received
+INFO:root:CORPUS SIZE AFTER REGEX: 76
+INFO:root:CORPUS SIZE AFTER STOPLIST: 76
+INFO:root:beginning tokenisation
+INFO:root:words tokenised, starting single mentioned word reduction
+INFO:root:words mentioned only once removed
+INFO:root:CORPUS SIZE AFTER EMPTY ROWS REMOVED: 76
+INFO:gensim.corpora.dictionary:adding document #0 to Dictionary(0 unique tokens: [])
+INFO:gensim.corpora.dictionary:built Dictionary(137 unique tokens: ['breakfast', 'came', 'food', 'options', 'quite']...) from 76 documents (total 392 corpus positions)
+INFO:gensim.models.tfidfmodel:collecting document frequencies
+INFO:gensim.models.tfidfmodel:PROGRESS: processing document #0
+INFO:gensim.models.tfidfmodel:calculating IDF weights for 76 documents and 137 features (373 matrix non-zeros)
+INFO:root:76
+INFO:root:starting LDA model
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/search?latitude=-36.872&longitude=174.74&limit=50&radius=500 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/1EdG8FX6ZyzNWf9V1gAELA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/R42-XBPiaXSkoswWDHarbw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/J02aF92F2IVz6ScDN_E8bQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/uEiZMK6ufqog7_0rvDUovw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/dyCEskWw2s7CFfXzjVsKQA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/pE4V-i9LUVHkjh0IA__FLw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/OtGXe_XktxbKZer7gSiO-g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Mr98VyYfJWnEyoUR6Md8dQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/AnHxckHmodFabIQG-OOlaw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/2dh8CUU5qONO-lrFVtHSTg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/j-5hSRDCA_MFwuMtUnpCAw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/w_U3deEmt64ujLmvMEe0-g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Ww840HGUyqmsiULgcdx8ow/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/wafbvhkRyMp4nadYv7r9ZQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/dbKe6dYQo3YtHT8GfwRkCw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/T9tWsKMBSy4rCararRsKqg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/mE6i2YYY5SiujEXKc4puAg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/k-j8gbu4lTsMt3o309AFPA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/JDiCYT2lOQV_ELpXe3l4mQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/AZQAlMyqre2Ei9bAFtuh1Q/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/P5NL-NUER3WETcamS-vQaw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/8AjYq9Jlw1HdaaO0Pk5kfw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/CjqypKXfd-sqFrBORhlLug/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/MkuyYxjdi8JfopLtvEKIiw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/6WD0PL4iVe4VflCvG9YHDQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Eltf2tCssy0znGIEzF5olA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Beb8fQTrbDenuiJjZGGSwQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ShQVSRfcrS6VHXSIU20B1g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ReceDS80NBWyu2OltS2Iqw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/tOH-nibpTVyndDiKjRJQOA/reviews HTTP/1.1" 200 None
+INFO:root:Starting GENSIM code
+INFO:root:76 reviews received
+INFO:root:CORPUS SIZE AFTER REGEX: 76
+INFO:root:CORPUS SIZE AFTER STOPLIST: 76
+INFO:root:beginning tokenisation
+INFO:root:words tokenised, starting single mentioned word reduction
+INFO:root:words mentioned only once removed
+INFO:root:CORPUS SIZE AFTER EMPTY ROWS REMOVED: 76
+INFO:gensim.corpora.dictionary:adding document #0 to Dictionary(0 unique tokens: [])
+INFO:gensim.corpora.dictionary:built Dictionary(137 unique tokens: ['breakfast', 'came', 'food', 'options', 'quite']...) from 76 documents (total 392 corpus positions)
+INFO:gensim.models.tfidfmodel:collecting document frequencies
+INFO:gensim.models.tfidfmodel:PROGRESS: processing document #0
+INFO:gensim.models.tfidfmodel:calculating IDF weights for 76 documents and 137 features (373 matrix non-zeros)
+INFO:root:76
+INFO:root:starting LDA model
+INFO:gensim.models.ldamodel:using symmetric eta at 0.1
+INFO:gensim.models.ldamodel:using serial LDA version on this node
+INFO:gensim.models.ldamodel:running batch LDA training, 10 topics, 50 passes over the supplied corpus of 76 documents, updating model once every 76 documents, evaluating perplexity every 76 documents, iterating 50x with a convergence threshold of 0.001000
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-15.950 per-word bound, 63320.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 0, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.036*"fridge" + 0.034*"voucher" + 0.030*"tables" + 0.028*"beautiful" + 0.028*"inside" + 0.026*"across" + 0.025*"along" + 0.024*"warm" + 0.023*"afternoon" + 0.022*"coffee"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"outdoor"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"italian" + 0.035*"first" + 0.031*"night" + 0.031*"cool" + 0.027*"loved" + 0.027*"week" + 0.022*"venosa" + 0.020*"menu" + 0.018*"sent" + 0.018*"12"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"drinks" + 0.021*"vibe" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic diff=6.424328, rho=1.000000
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.812 per-word bound, 224.8 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 1, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.047*"auckland" + 0.035*"coffee" + 0.026*"wee" + 0.026*"months" + 0.025*"bar" + 0.024*"cuisine" + 0.024*"wine" + 0.023*"upstairs" + 0.023*"local" + 0.023*"disappointed"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"interior" + 0.023*"retro" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"outdoor"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.036*"fridge" + 0.034*"voucher" + 0.030*"tables" + 0.028*"beautiful" + 0.028*"inside" + 0.026*"across" + 0.025*"along" + 0.024*"warm" + 0.023*"afternoon" + 0.022*"coffee"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.034*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"times" + 0.021*"part" + 0.021*"eat" + 0.020*"dish" + 0.020*"hidden"
+INFO:gensim.models.ldamodel:topic diff=0.009452, rho=0.577350
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.799 per-word bound, 222.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 2, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"outdoor"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.052*"auckland" + 0.041*"coffee" + 0.026*"wee" + 0.026*"months" + 0.025*"bar" + 0.024*"cuisine" + 0.024*"wine" + 0.023*"upstairs" + 0.023*"local" + 0.022*"disappointed"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"interior" + 0.023*"retro" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"times" + 0.021*"part" + 0.021*"eat" + 0.020*"dish" + 0.020*"hidden"
+INFO:gensim.models.ldamodel:topic diff=0.004819, rho=0.500000
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.794 per-word bound, 222.0 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 3, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"italian" + 0.035*"first" + 0.031*"night" + 0.031*"cool" + 0.027*"loved" + 0.027*"week" + 0.022*"venosa" + 0.020*"menu" + 0.018*"sent" + 0.018*"12"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"drinks" + 0.021*"vibe" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"interior" + 0.023*"retro" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"times" + 0.021*"part" + 0.021*"eat" + 0.020*"dish" + 0.020*"hidden"
+INFO:gensim.models.ldamodel:topic diff=0.003310, rho=0.447214
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.792 per-word bound, 221.6 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 4, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"wee" + 0.017*"park" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"times" + 0.021*"part" + 0.021*"eat" + 0.020*"dish" + 0.020*"hidden"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"drinks" + 0.021*"vibe" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.055*"auckland" + 0.044*"coffee" + 0.026*"wee" + 0.026*"months" + 0.025*"bar" + 0.024*"cuisine" + 0.024*"wine" + 0.023*"local" + 0.023*"upstairs" + 0.022*"disappointed"
+INFO:gensim.models.ldamodel:topic diff=0.002399, rho=0.408248
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.791 per-word bound, 221.5 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 5, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"outdoor"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.033*"opened" + 0.027*"neighbourhood" + 0.027*"rather" + 0.026*"delicious" + 0.026*"cheesy" + 0.025*"first" + 0.021*"tasty" + 0.021*"reviews" + 0.020*"wow" + 0.020*"family"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"wee" + 0.017*"park" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.056*"auckland" + 0.045*"coffee" + 0.026*"wee" + 0.026*"months" + 0.025*"bar" + 0.024*"cuisine" + 0.024*"wine" + 0.023*"local" + 0.023*"upstairs" + 0.022*"disappointed"
+INFO:gensim.models.ldamodel:topic diff=0.001711, rho=0.377964
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.790 per-word bound, 221.4 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 6, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"interior" + 0.023*"retro" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.036*"fridge" + 0.035*"voucher" + 0.030*"tables" + 0.028*"beautiful" + 0.028*"inside" + 0.025*"along" + 0.025*"warm" + 0.024*"across" + 0.023*"afternoon" + 0.022*"hot"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"times" + 0.021*"part" + 0.021*"eat" + 0.020*"dish" + 0.020*"hidden"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"drinks" + 0.021*"vibe" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic diff=0.003967, rho=0.353553
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.785 per-word bound, 220.6 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 7, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"times" + 0.021*"part" + 0.021*"eat" + 0.020*"dish" + 0.020*"hidden"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.033*"opened" + 0.027*"neighbourhood" + 0.027*"rather" + 0.026*"delicious" + 0.026*"cheesy" + 0.025*"first" + 0.021*"tasty" + 0.021*"reviews" + 0.020*"wow" + 0.020*"family"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"italian" + 0.035*"first" + 0.031*"night" + 0.031*"cool" + 0.027*"loved" + 0.027*"week" + 0.022*"venosa" + 0.020*"menu" + 0.018*"sent" + 0.018*"12"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.057*"coffee" + 0.055*"auckland" + 0.030*"across" + 0.025*"wee" + 0.025*"months" + 0.024*"bar" + 0.023*"cuisine" + 0.023*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic diff=0.005041, rho=0.333333
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.778 per-word bound, 219.5 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 8, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"along" + 0.024*"lunch" + 0.023*"outdoor"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"times" + 0.021*"part" + 0.021*"eat" + 0.020*"dish" + 0.020*"hidden"
+INFO:gensim.models.ldamodel:topic diff=0.003615, rho=0.316228
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.774 per-word bound, 218.9 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 9, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.033*"opened" + 0.027*"neighbourhood" + 0.027*"rather" + 0.026*"delicious" + 0.026*"cheesy" + 0.025*"first" + 0.021*"tasty" + 0.021*"reviews" + 0.020*"wow" + 0.020*"family"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic diff=0.002824, rho=0.301511
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.772 per-word bound, 218.5 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 10, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"part" + 0.021*"eat" + 0.021*"times" + 0.020*"hidden" + 0.020*"dish"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.063*"coffee" + 0.055*"auckland" + 0.040*"across" + 0.025*"months" + 0.025*"wee" + 0.024*"bar" + 0.023*"cuisine" + 0.023*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.022*"hot" + 0.022*"visit"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic diff=0.002319, rho=0.288675
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.770 per-word bound, 218.3 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 11, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.022*"hot" + 0.022*"visit"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"places"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.064*"coffee" + 0.054*"auckland" + 0.042*"across" + 0.025*"months" + 0.025*"wee" + 0.024*"bar" + 0.023*"cuisine" + 0.023*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"italian" + 0.035*"first" + 0.031*"night" + 0.031*"cool" + 0.027*"loved" + 0.027*"week" + 0.022*"venosa" + 0.020*"menu" + 0.018*"sent" + 0.018*"12"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.033*"opened" + 0.027*"neighbourhood" + 0.027*"rather" + 0.026*"delicious" + 0.026*"cheesy" + 0.025*"first" + 0.021*"reviews" + 0.021*"tasty" + 0.020*"wow" + 0.020*"family"
+INFO:gensim.models.ldamodel:topic diff=0.001951, rho=0.277350
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.769 per-word bound, 218.1 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 12, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.033*"opened" + 0.027*"neighbourhood" + 0.027*"rather" + 0.026*"delicious" + 0.026*"cheesy" + 0.025*"first" + 0.021*"reviews" + 0.021*"tasty" + 0.020*"wow" + 0.020*"family"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic diff=0.001652, rho=0.267261
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.768 per-word bound, 217.9 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 13, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"places"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"italian" + 0.035*"first" + 0.031*"night" + 0.031*"cool" + 0.027*"loved" + 0.027*"week" + 0.022*"venosa" + 0.020*"menu" + 0.018*"sent" + 0.018*"12"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.065*"coffee" + 0.054*"auckland" + 0.043*"across" + 0.025*"months" + 0.025*"wee" + 0.023*"bar" + 0.023*"cuisine" + 0.023*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic diff=0.001390, rho=0.258199
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.767 per-word bound, 217.9 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 14, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"part" + 0.021*"eat" + 0.021*"times" + 0.020*"hidden" + 0.020*"dish"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic diff=0.001157, rho=0.250000
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.767 per-word bound, 217.8 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 15, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"places"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"italian" + 0.035*"first" + 0.031*"night" + 0.031*"cool" + 0.027*"loved" + 0.027*"week" + 0.022*"venosa" + 0.020*"menu" + 0.018*"sent" + 0.018*"12"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"part" + 0.021*"eat" + 0.021*"times" + 0.020*"hidden" + 0.020*"dish"
+INFO:gensim.models.ldamodel:topic diff=0.000951, rho=0.242536
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.767 per-word bound, 217.8 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 16, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.033*"opened" + 0.027*"neighbourhood" + 0.027*"rather" + 0.026*"delicious" + 0.026*"cheesy" + 0.025*"first" + 0.021*"reviews" + 0.021*"tasty" + 0.020*"wow" + 0.020*"family"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"italian" + 0.035*"first" + 0.031*"night" + 0.031*"cool" + 0.027*"loved" + 0.027*"week" + 0.022*"venosa" + 0.020*"menu" + 0.018*"sent" + 0.018*"12"
+INFO:gensim.models.ldamodel:topic diff=0.000773, rho=0.235702
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.767 per-word bound, 217.8 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 17, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.066*"coffee" + 0.054*"auckland" + 0.045*"across" + 0.025*"months" + 0.025*"wee" + 0.023*"bar" + 0.022*"cuisine" + 0.022*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.033*"opened" + 0.027*"neighbourhood" + 0.027*"rather" + 0.026*"delicious" + 0.026*"cheesy" + 0.025*"first" + 0.021*"reviews" + 0.021*"tasty" + 0.020*"wow" + 0.020*"family"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.023*"hot" + 0.022*"visit"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic diff=0.000623, rho=0.229416
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 18, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.023*"hot" + 0.022*"visit"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.066*"coffee" + 0.054*"auckland" + 0.045*"across" + 0.025*"months" + 0.025*"wee" + 0.023*"bar" + 0.022*"cuisine" + 0.022*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"italian" + 0.035*"first" + 0.031*"night" + 0.031*"cool" + 0.027*"loved" + 0.027*"week" + 0.022*"venosa" + 0.020*"menu" + 0.018*"sent" + 0.018*"12"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"places"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic diff=0.000499, rho=0.223607
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 19, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"italian" + 0.035*"first" + 0.031*"night" + 0.031*"cool" + 0.027*"loved" + 0.027*"week" + 0.022*"venosa" + 0.020*"menu" + 0.018*"sent" + 0.018*"12"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.066*"coffee" + 0.054*"auckland" + 0.045*"across" + 0.025*"months" + 0.025*"wee" + 0.023*"bar" + 0.022*"cuisine" + 0.022*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.023*"hot" + 0.023*"visit"
+INFO:gensim.models.ldamodel:topic diff=0.000397, rho=0.218218
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 20, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.066*"coffee" + 0.054*"auckland" + 0.045*"across" + 0.025*"months" + 0.025*"wee" + 0.023*"bar" + 0.022*"cuisine" + 0.022*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.023*"hot" + 0.023*"visit"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"part" + 0.021*"eat" + 0.021*"times" + 0.020*"hidden" + 0.020*"dish"
+INFO:gensim.models.ldamodel:topic diff=0.000316, rho=0.213201
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 21, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"places"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.066*"coffee" + 0.054*"auckland" + 0.045*"across" + 0.025*"months" + 0.025*"wee" + 0.023*"bar" + 0.022*"cuisine" + 0.022*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic diff=0.000251, rho=0.208514
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 22, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"places"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.023*"hot" + 0.023*"visit"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic diff=0.000199, rho=0.204124
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 23, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"italian" + 0.035*"first" + 0.031*"night" + 0.031*"cool" + 0.027*"loved" + 0.027*"week" + 0.022*"venosa" + 0.020*"menu" + 0.018*"wanted" + 0.018*"12"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.066*"coffee" + 0.054*"auckland" + 0.045*"across" + 0.025*"months" + 0.025*"wee" + 0.023*"bar" + 0.022*"cuisine" + 0.022*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"places"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic diff=0.000158, rho=0.200000
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 24, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.066*"coffee" + 0.054*"auckland" + 0.045*"across" + 0.025*"months" + 0.025*"wee" + 0.023*"bar" + 0.022*"cuisine" + 0.022*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.033*"opened" + 0.027*"neighbourhood" + 0.027*"rather" + 0.026*"delicious" + 0.026*"cheesy" + 0.025*"first" + 0.021*"reviews" + 0.021*"tasty" + 0.020*"wow" + 0.020*"family"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"places"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic diff=0.000126, rho=0.196116
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 25, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"part" + 0.021*"eat" + 0.021*"times" + 0.020*"hidden" + 0.020*"dish"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.023*"hot" + 0.023*"visit"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic diff=0.000101, rho=0.192450
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 26, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.033*"opened" + 0.027*"neighbourhood" + 0.027*"rather" + 0.026*"delicious" + 0.026*"cheesy" + 0.025*"first" + 0.021*"reviews" + 0.021*"tasty" + 0.020*"wow" + 0.020*"family"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"part" + 0.021*"eat" + 0.021*"times" + 0.020*"hidden" + 0.020*"dish"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.023*"hot" + 0.023*"visit"
+INFO:gensim.models.ldamodel:topic diff=0.000081, rho=0.188982
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 27, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.066*"coffee" + 0.054*"auckland" + 0.045*"across" + 0.025*"months" + 0.025*"wee" + 0.023*"bar" + 0.022*"cuisine" + 0.022*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"places"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.023*"hot" + 0.023*"visit"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"part" + 0.021*"eat" + 0.021*"times" + 0.020*"hidden" + 0.020*"dish"
+INFO:gensim.models.ldamodel:topic diff=0.000065, rho=0.185695
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 28, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.023*"hot" + 0.023*"visit"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"italian" + 0.035*"first" + 0.031*"night" + 0.031*"cool" + 0.027*"loved" + 0.027*"week" + 0.022*"venosa" + 0.020*"menu" + 0.018*"wanted" + 0.018*"12"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"part" + 0.021*"eat" + 0.021*"times" + 0.020*"hidden" + 0.020*"dish"
+INFO:gensim.models.ldamodel:topic diff=0.000052, rho=0.182574
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 29, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.066*"coffee" + 0.054*"auckland" + 0.045*"across" + 0.025*"months" + 0.025*"wee" + 0.023*"bar" + 0.022*"cuisine" + 0.022*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.033*"opened" + 0.027*"neighbourhood" + 0.027*"rather" + 0.026*"delicious" + 0.026*"cheesy" + 0.025*"first" + 0.021*"reviews" + 0.021*"tasty" + 0.020*"wow" + 0.020*"family"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic diff=0.000042, rho=0.179605
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 30, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.066*"coffee" + 0.054*"auckland" + 0.045*"across" + 0.025*"months" + 0.025*"wee" + 0.023*"bar" + 0.022*"cuisine" + 0.022*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.023*"hot" + 0.023*"visit"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"places"
+INFO:gensim.models.ldamodel:topic diff=0.000034, rho=0.176777
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 31, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"places"
+INFO:gensim.models.ldamodel:topic diff=0.000028, rho=0.174078
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 32, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"italian" + 0.035*"first" + 0.031*"night" + 0.031*"cool" + 0.027*"loved" + 0.027*"week" + 0.022*"venosa" + 0.020*"menu" + 0.018*"wanted" + 0.018*"12"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.023*"hot" + 0.023*"visit"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"places"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic diff=0.000023, rho=0.171499
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 33, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.023*"hot" + 0.023*"visit"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.033*"opened" + 0.027*"neighbourhood" + 0.027*"rather" + 0.026*"delicious" + 0.026*"cheesy" + 0.025*"first" + 0.021*"reviews" + 0.021*"tasty" + 0.020*"wow" + 0.020*"family"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"italian" + 0.035*"first" + 0.031*"night" + 0.031*"cool" + 0.027*"loved" + 0.027*"week" + 0.022*"venosa" + 0.020*"menu" + 0.018*"wanted" + 0.018*"12"
+INFO:gensim.models.ldamodel:topic diff=0.000019, rho=0.169031
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 34, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"part" + 0.021*"eat" + 0.021*"times" + 0.020*"hidden" + 0.020*"dish"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.066*"coffee" + 0.054*"auckland" + 0.045*"across" + 0.025*"months" + 0.025*"wee" + 0.023*"bar" + 0.022*"cuisine" + 0.022*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.023*"hot" + 0.023*"visit"
+INFO:gensim.models.ldamodel:topic diff=0.000015, rho=0.166667
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 35, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"places"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"italian" + 0.035*"first" + 0.031*"night" + 0.031*"cool" + 0.027*"loved" + 0.027*"week" + 0.022*"venosa" + 0.020*"menu" + 0.018*"wanted" + 0.018*"12"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"part" + 0.021*"eat" + 0.021*"times" + 0.020*"hidden" + 0.020*"dish"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic diff=0.000013, rho=0.164399
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 36, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.066*"coffee" + 0.054*"auckland" + 0.045*"across" + 0.025*"months" + 0.025*"wee" + 0.023*"bar" + 0.022*"cuisine" + 0.022*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"part" + 0.021*"eat" + 0.021*"times" + 0.020*"hidden" + 0.020*"dish"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.023*"hot" + 0.023*"visit"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.033*"opened" + 0.027*"neighbourhood" + 0.027*"rather" + 0.026*"delicious" + 0.026*"cheesy" + 0.025*"first" + 0.021*"reviews" + 0.021*"tasty" + 0.020*"wow" + 0.020*"family"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic diff=0.000010, rho=0.162221
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 37, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.023*"hot" + 0.023*"visit"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.033*"opened" + 0.027*"neighbourhood" + 0.027*"rather" + 0.026*"delicious" + 0.026*"cheesy" + 0.025*"first" + 0.021*"reviews" + 0.021*"tasty" + 0.020*"wow" + 0.020*"family"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.066*"coffee" + 0.054*"auckland" + 0.045*"across" + 0.025*"months" + 0.025*"wee" + 0.023*"bar" + 0.022*"cuisine" + 0.022*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic diff=0.000009, rho=0.160128
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 38, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"part" + 0.021*"eat" + 0.021*"times" + 0.020*"hidden" + 0.020*"dish"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"italian" + 0.035*"first" + 0.031*"night" + 0.031*"cool" + 0.027*"loved" + 0.027*"week" + 0.022*"venosa" + 0.020*"menu" + 0.018*"wanted" + 0.018*"12"
+INFO:gensim.models.ldamodel:topic diff=0.000007, rho=0.158114
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 39, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.033*"opened" + 0.027*"neighbourhood" + 0.027*"rather" + 0.026*"delicious" + 0.026*"cheesy" + 0.025*"first" + 0.021*"reviews" + 0.021*"tasty" + 0.020*"wow" + 0.020*"family"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"places"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"part" + 0.021*"eat" + 0.021*"times" + 0.020*"hidden" + 0.020*"dish"
+INFO:gensim.models.ldamodel:topic diff=0.000006, rho=0.156174
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 40, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"part" + 0.021*"eat" + 0.021*"times" + 0.020*"hidden" + 0.020*"dish"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"italian" + 0.035*"first" + 0.031*"night" + 0.031*"cool" + 0.027*"loved" + 0.027*"week" + 0.022*"venosa" + 0.020*"menu" + 0.018*"wanted" + 0.018*"12"
+INFO:gensim.models.ldamodel:topic diff=0.000005, rho=0.154303
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 41, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"part" + 0.021*"eat" + 0.021*"times" + 0.020*"hidden" + 0.020*"dish"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.066*"coffee" + 0.054*"auckland" + 0.045*"across" + 0.025*"months" + 0.025*"wee" + 0.023*"bar" + 0.022*"cuisine" + 0.022*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.033*"opened" + 0.027*"neighbourhood" + 0.027*"rather" + 0.026*"delicious" + 0.026*"cheesy" + 0.025*"first" + 0.021*"reviews" + 0.021*"tasty" + 0.020*"wow" + 0.020*"family"
+INFO:gensim.models.ldamodel:topic diff=0.000004, rho=0.152499
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 42, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"italian" + 0.035*"first" + 0.031*"night" + 0.031*"cool" + 0.027*"loved" + 0.027*"week" + 0.022*"venosa" + 0.020*"menu" + 0.018*"wanted" + 0.018*"12"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"part" + 0.021*"eat" + 0.021*"times" + 0.020*"hidden" + 0.020*"dish"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.033*"opened" + 0.027*"neighbourhood" + 0.027*"rather" + 0.026*"delicious" + 0.026*"cheesy" + 0.025*"first" + 0.021*"reviews" + 0.021*"tasty" + 0.020*"wow" + 0.020*"family"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.066*"coffee" + 0.054*"auckland" + 0.045*"across" + 0.025*"months" + 0.025*"wee" + 0.023*"bar" + 0.022*"cuisine" + 0.022*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic diff=0.000003, rho=0.150756
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 43, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"places"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.066*"coffee" + 0.054*"auckland" + 0.045*"across" + 0.025*"months" + 0.025*"wee" + 0.023*"bar" + 0.022*"cuisine" + 0.022*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic diff=0.000003, rho=0.149071
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 44, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"part" + 0.021*"eat" + 0.021*"times" + 0.020*"hidden" + 0.020*"dish"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.033*"opened" + 0.027*"neighbourhood" + 0.027*"rather" + 0.026*"delicious" + 0.026*"cheesy" + 0.025*"first" + 0.021*"reviews" + 0.021*"tasty" + 0.020*"wow" + 0.020*"family"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic diff=0.000002, rho=0.147442
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 45, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"italian" + 0.035*"first" + 0.031*"night" + 0.031*"cool" + 0.027*"loved" + 0.027*"week" + 0.022*"venosa" + 0.020*"menu" + 0.018*"wanted" + 0.018*"12"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.066*"coffee" + 0.054*"auckland" + 0.045*"across" + 0.025*"months" + 0.025*"wee" + 0.023*"bar" + 0.022*"cuisine" + 0.022*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.023*"hot" + 0.023*"visit"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"places"
+INFO:gensim.models.ldamodel:topic diff=0.000002, rho=0.145865
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 46, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.023*"hot" + 0.023*"visit"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.066*"coffee" + 0.054*"auckland" + 0.045*"across" + 0.025*"months" + 0.025*"wee" + 0.023*"bar" + 0.022*"cuisine" + 0.022*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic diff=0.000002, rho=0.144338
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 47, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.023*"hot" + 0.023*"visit"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.035*"toro" + 0.034*"menu" + 0.032*"camino" + 0.027*"lunch" + 0.027*"twice" + 0.025*"school" + 0.025*"wow" + 0.025*"excellent" + 0.024*"match" + 0.022*"delicious"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"part" + 0.021*"eat" + 0.021*"times" + 0.020*"hidden" + 0.020*"dish"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.047*"review" + 0.033*"indian" + 0.032*"staff" + 0.032*"friendly" + 0.027*"disappointing" + 0.025*"called" + 0.024*"used" + 0.023*"retro" + 0.023*"interior" + 0.022*"ordered"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.029*"bar" + 0.026*"eat" + 0.026*"buns" + 0.025*"local" + 0.025*"lovely" + 0.025*"road" + 0.024*"cos" + 0.024*"lunch" + 0.024*"along" + 0.023*"places"
+INFO:gensim.models.ldamodel:topic diff=0.000001, rho=0.142857
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 48, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.066*"coffee" + 0.054*"auckland" + 0.045*"across" + 0.025*"months" + 0.025*"wee" + 0.023*"bar" + 0.022*"cuisine" + 0.022*"wine" + 0.022*"upstairs" + 0.022*"local"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.023*"hot" + 0.023*"visit"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"italian" + 0.035*"first" + 0.031*"night" + 0.031*"cool" + 0.027*"loved" + 0.027*"week" + 0.022*"venosa" + 0.020*"menu" + 0.018*"wanted" + 0.018*"12"
+INFO:gensim.models.ldamodel:topic diff=0.000001, rho=0.141421
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-7.766 per-word bound, 217.7 perplexity estimate based on a held-out corpus of 76 documents with 160 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 49, at document #76/76
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 76 documents
+DEBUG:gensim.models.ldamodel:76/76 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.035*"fresh" + 0.033*"fish" + 0.031*"selection" + 0.029*"quite" + 0.025*"food" + 0.021*"part" + 0.021*"eat" + 0.021*"times" + 0.020*"hidden" + 0.020*"dish"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.033*"opened" + 0.027*"neighbourhood" + 0.027*"rather" + 0.026*"delicious" + 0.026*"cheesy" + 0.025*"first" + 0.021*"reviews" + 0.021*"tasty" + 0.020*"wow" + 0.020*"family"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.037*"fridge" + 0.036*"voucher" + 0.031*"tables" + 0.029*"beautiful" + 0.029*"inside" + 0.026*"along" + 0.025*"warm" + 0.024*"afternoon" + 0.023*"hot" + 0.023*"visit"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.028*"quite" + 0.027*"dinner" + 0.027*"chicken" + 0.022*"menu" + 0.021*"times" + 0.020*"food" + 0.017*"kingsland" + 0.017*"park" + 0.017*"wee" + 0.017*"festival"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.041*"atmosphere" + 0.035*"restaurant" + 0.035*"kingsland" + 0.026*"thai" + 0.024*"cuisine" + 0.023*"believe" + 0.021*"seating" + 0.021*"vibe" + 0.021*"drinks" + 0.021*"tasty"
+INFO:gensim.models.ldamodel:topic diff=0.000001, rho=0.140028

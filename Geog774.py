@@ -185,6 +185,6 @@ corpus_tfidf = tfidf[corpus] #apply TFIDF transform to the entire corpus
 logging.info(len(corpus_tfidf))
 logging.info("starting LDA model")
 
-model = models. ldamodel.LdsModel(corpus_tfidf, id2word=dictionary, alpha=0.001, num_topics=10, update_every=0, passes=50)
+model = models. ldamodel.LdaModel(corpus_tfidf, id2word=dictionary, alpha=0.001, num_topics=10, update_every=0, passes=50)
 
 pp(model.show_topics())
