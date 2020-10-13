@@ -245,7 +245,8 @@ conn = psycopg2.connect(connString)
 
 curr = conn.cursor()
 
-sql = "CREATE INDEX geom_index ON public.supplied_yelp USING gist (geom) TABLESPACE pg_default; " #pretty sure this is where the line ends but check weird arrows in pdf
+#added IF NOT EXISTS to stop an error however this may need to be redone
+sql = "CREATE INDEX IF NOT EXISTS geom_index ON public.supplied_yelp USING gist (geom) TABLESPACE pg_default; " #pretty sure this is where the line ends but check weird arrows in pdf
 
 curr.execute(sql)
 conn.commit()
