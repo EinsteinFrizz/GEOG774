@@ -200,6 +200,42 @@ for line in lines:
         documents.append(d['text'])
 #from here just do the same as earlier
 
+# %% READING THE THINGS
+with open('rev_subset_50k.json','w') as f:
+    json.dump(payload,f)
+
+#payload_good = [['name','rating','url','price','lat','long','category']]
+payload_review = [['Name','Bus_ID','Rating','Url','Price','Lat','Long','Category','Review_1','Review_2','Review_3']]
+
+for business in payload['businesses']: #for loop iterates through each entry in the array
+    lat = str(business['coordinates']['latitude']) #set variable to the string of latitude value
+    lon = str(business['coordinates']['longitude']) #set variable to the string of longitude value
+    name = str(business['name']) #set variable to the string of name of the business
+    url = str(business['url']) #set variable to the string of URL of the business
+    price = business['price'] if 'price' in business else "null" #set variable to the priciness of the business if it is defined, otherwise set it to 'null' string
+    rating = str(business['rating']) #set variable to the string of rating of the business
+    category = str(business['categories'][0]['title']) #set variable to the string of the first category that the business fits in, using the 'title' value
+    busID = business['id']
+    
+    r = requests.get('https://api.yelp.com/v3/businesses/'+busID+'/reviews',params={},headers=headers).json()
+    
+    n = len(r['reviews'])
+    review1,review2,review3 = 'null','null','null' #initialises variables
+    if n > 0: review1 = r['reviews'][0]['text'] #adds 'text' value to the list below if it exists
+    if n > 1: review2 = r['reviews'][1]['text'] #adds 'text' value to the list below if it exists
+    if n > 2: review3 = r['reviews'][2]['text'] #adds 'text' value to the list below if it exists
+    
+    l = [name,busID,rating,url,price,lat,lon,category,review1,review2,review3] #list of attributes read from the json file, including the first three reviews where they exist
+    
+    #print(l) #prints out the list of information - this is a lot
+    
+    payload_review.append(l) #adds the list to the above array
+
+with open('output_supplied.csv','w') as csv_file:
+    writer = csv.writer(csv_file) #defines writer function
+    writer.writerows(payload_review) #writes the information to the csv
+
+csv_file.close()
 # %% CONNECTING TO POSTGIS DATABASE
 dbname = 'apee461' #name of the PostGIS database
 user = 'postgres' #credentials to log in
@@ -325,7 +361,7 @@ model = models. ldamodel.LdaModel(corpus_tfidf, id2word=dictionary, alpha=0.001,
 pp(model.show_topics())
 
 # %% OUTPUT TO CSV
-with open('output_supplied.csv','w') as csv_file:
+with open('output_supplied.csv','ab') as csv_file:
     writer = csv.writer(csv_file) #defines writer function
     writer.writerows(model.show_topics(formatted=False)) #writes the information to the csv
     #current error is that the stuff inside writerows() needs to be iterable
