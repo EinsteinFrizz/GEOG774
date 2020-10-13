@@ -358,7 +358,7 @@ logging.info("starting LDA model")
 
 model = models. ldamodel.LdaModel(corpus_tfidf, id2word=dictionary, alpha=0.001, num_topics=10, update_every=0, passes=50)
 
-pp(model.show_topics())
+pp(model.show_topics(formatted=False))
 
 # %% OUTPUT TO CSV
 with open('output_supplied.csv','ab') as csv_file:
