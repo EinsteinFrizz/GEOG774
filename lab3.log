@@ -166,3 +166,723 @@ DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
 DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ZxaeiBkYbOEoH2B260NuZA/reviews HTTP/1.1" 200 None
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
 DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/NuRXHmO__8639TKPXsgoSg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/search?latitude=-36.848459&longitude=174.743834&limit=50&radius=500 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ZPwp1mxq4rh8Hv_a2Xug4g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/VUoorZknfXZcR8ExQdY_fw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/QXWXzj5MNlYHs1BVzXYY9A/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/lWQ0oe49eLWKiJWoLFPnXA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/6JWCIF4CWasA4NeMH_bIrg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/n5TaZqLOp1viwEQr4bDifQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/k2y8sAy_zH-r54wKlElTeA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/0KMW90B3zHSBtzJ3OnKWgQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/-oxgA0wdMzp9qSmsrWCx0Q/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/TITZtrDIzzwzbHcH_tjfHA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/YIl3mzAyPboM2K8bhOdWog/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/_f8HOdek0fyp4eyP-BY6Gg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/9yHfpxO6p_h4v4Bj1qNKwA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/EX8mX_3p-UrTRUDAr9GeSA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/rHKXAKc68grx92oTKn9gJQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/uBlL3EP5Ditl-dNdGA9bBw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/k2RBpssIXJAYQ1CpBc3ihg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/p_gGuEj9MiNAanN1ji20DQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/qJAZdrWXJja1JBVKuEoMEg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/iK1LLwtCO0w9dQP-sQtmig/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/iNcgI84PyowvjO_z1A0TTw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/c55ANnAc9sBQHXisTuJ77A/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/lNL_FEXhqtutqpZGMWuSyQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/6oc08mk4Wwt-K4uwXLnWbw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/UYqANaUb0lrlgVeauy7qpg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/A-02QDWscM4bzvMEBqatww/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/7_IlazSSb61nbtaluuJnYg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/MD1miGvB4A6s8422ySk3rg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/uuGhmIGk0MkcYnlNRSRUJw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ViRr-XTM8dI_1BId16vzQA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/930T55ZnSnVeXmfvalRHZw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/Q7pXAS0FxKQrMS3Qo6LkCQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/45ChmyMl1m6jxGCRpZ4-Jg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ZrxQ229p2AZLlVhdYPqOyA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/M3OC7LNvRXQJi3Ecz-TV9w/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/4Z3T2ZBLMwWAFggMaG7mdQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/acB3J6GkrrDQHwncCMlXbQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/gR2q443986NfsQ6CbMJvQg/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/VzMKN0__cLNsny9uS9l2RQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/c13NIn_y3uETNl3dTNyxqQ/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/IoEE5HeXg1ZefalQtCfN4g/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/MNlBIgljoHq_fhQF7CYhBw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/3kka6qvAGkpURhHmJcs2hw/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/bSF6MFD1RkWqgg4wF3PeiA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ac9hLBu1nPtznq4Xr0gzbA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/3g4BKtGfYi017U7UxjDrpA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/gmhN8I-29xyLd9iZYRUVcA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/WmToxjZEBMZGmFd1Cm-BTA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/ZxaeiBkYbOEoH2B260NuZA/reviews HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.yelp.com:443
+DEBUG:urllib3.connectionpool:https://api.yelp.com:443 "GET /v3/businesses/NuRXHmO__8639TKPXsgoSg/reviews HTTP/1.1" 200 None
+INFO:root:Starting GENSIM code
+INFO:root:128 reviews received
+INFO:root:CORPUS SIZE AFTER REGEX: 128
+INFO:root:CORPUS SIZE AFTER STOPLIST: 128
+INFO:root:beginning tokenisation
+INFO:root:words tokenised, starting single mentioned word reduction
+INFO:root:words mentioned only once removed
+INFO:root:CORPUS SIZE AFTER EMPTY ROWS REMOVED: 128
+INFO:gensim.corpora.dictionary:adding document #0 to Dictionary(0 unique tokens: [])
+INFO:gensim.corpora.dictionary:built Dictionary(249 unique tokens: ['auckland', 'cafe', 'delicious', 'flat', 'food']...) from 128 documents (total 877 corpus positions)
+INFO:gensim.models.tfidfmodel:collecting document frequencies
+INFO:gensim.models.tfidfmodel:PROGRESS: processing document #0
+INFO:gensim.models.tfidfmodel:calculating IDF weights for 128 documents and 249 features (835 matrix non-zeros)
+INFO:root:128
+INFO:root:starting LDA model
+INFO:gensim.models.ldamodel:using symmetric eta at 0.1
+INFO:gensim.models.ldamodel:using serial LDA version on this node
+INFO:gensim.models.ldamodel:running batch LDA training, 10 topics, 50 passes over the supplied corpus of 128 documents, updating model once every 128 documents, evaluating perplexity every 128 documents, iterating 50x with a convergence threshold of 0.001000
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-15.871 per-word bound, 59950.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 0, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.025*"wine" + 0.016*"taking" + 0.016*"atmosphere" + 0.016*"list" + 0.016*"coffee" + 0.016*"spot" + 0.015*"friendly" + 0.014*"lost" + 0.013*"cafe" + 0.013*"eat"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.027*"night" + 0.024*"chicken" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.015*"taco" + 0.015*"lucky" + 0.014*"super" + 0.013*"auckland" + 0.013*"across"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"ponsonby" + 0.016*"delicious" + 0.016*"afternoon" + 0.016*"steak" + 0.016*"staff" + 0.015*"two" + 0.014*"friendly" + 0.014*"food" + 0.014*"flat"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.020*"knowledgeable" + 0.020*"die" + 0.019*"staff" + 0.019*"cakes" + 0.018*"always" + 0.017*"sushi" + 0.017*"experience" + 0.015*"variety" + 0.015*"ponsonby" + 0.014*"expectations"
+INFO:gensim.models.ldamodel:topic diff=6.271363, rho=1.000000
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.343 per-word bound, 324.7 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 1, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.018*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.014*"generous" + 0.013*"street" + 0.013*"fried" + 0.013*"experience" + 0.012*"tasty" + 0.012*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"crowd" + 0.013*"young" + 0.013*"perhaps" + 0.013*"whiskey"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"cocktail" + 0.016*"honestly"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.025*"wine" + 0.016*"taking" + 0.016*"atmosphere" + 0.016*"list" + 0.016*"coffee" + 0.016*"spot" + 0.015*"friendly" + 0.014*"lost" + 0.013*"cafe" + 0.013*"eat"
+INFO:gensim.models.ldamodel:topic diff=0.007415, rho=0.577350
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.388 per-word bound, 335.0 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 2, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"crowd" + 0.013*"young" + 0.013*"perhaps" + 0.013*"whiskey"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"egg" + 0.014*"brunch" + 0.014*"glad" + 0.014*"scene"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"cocktail" + 0.016*"honestly"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.018*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.014*"generous" + 0.013*"street" + 0.013*"fried" + 0.013*"experience" + 0.012*"tasty" + 0.012*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.027*"night" + 0.024*"chicken" + 0.023*"sushi" + 0.017*"across" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"taco" + 0.014*"lucky" + 0.014*"super" + 0.013*"staff"
+INFO:gensim.models.ldamodel:topic diff=0.003999, rho=0.500000
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.350 per-word bound, 326.2 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 3, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.027*"night" + 0.024*"chicken" + 0.022*"sushi" + 0.018*"across" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"taco" + 0.014*"lucky" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"cocktail" + 0.016*"honestly"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.019*"auckland" + 0.017*"delicious" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.015*"friendly" + 0.015*"food" + 0.015*"ponsonby" + 0.015*"flat" + 0.013*"white"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic diff=0.002898, rho=0.447214
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.348 per-word bound, 325.9 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 4, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"crowd" + 0.013*"young" + 0.013*"perhaps" + 0.013*"whiskey"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.025*"wine" + 0.017*"lost" + 0.016*"taking" + 0.016*"atmosphere" + 0.016*"list" + 0.016*"coffee" + 0.016*"spot" + 0.015*"friendly" + 0.013*"cafe" + 0.013*"eat"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.027*"sushi" + 0.024*"staff" + 0.020*"knowledgeable" + 0.020*"zealand" + 0.019*"die" + 0.018*"cakes" + 0.018*"always" + 0.017*"ponsonby" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.029*"night" + 0.024*"chicken" + 0.021*"sushi" + 0.018*"across" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"taco" + 0.014*"lucky" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic diff=0.010037, rho=0.408248
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.372 per-word bound, 331.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 5, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"egg" + 0.014*"brunch" + 0.014*"glad" + 0.014*"scene"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.019*"auckland" + 0.017*"delicious" + 0.016*"food" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"love" + 0.015*"two" + 0.015*"friendly" + 0.014*"flat" + 0.014*"ponsonby"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"cocktail" + 0.016*"honestly"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic diff=0.007177, rho=0.377964
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.367 per-word bound, 330.1 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 6, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.018*"nights" + 0.015*"middle" + 0.015*"eastern" + 0.014*"generous" + 0.014*"street" + 0.013*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.025*"wine" + 0.019*"lost" + 0.016*"taking" + 0.016*"atmosphere" + 0.016*"list" + 0.016*"coffee" + 0.016*"spot" + 0.015*"friendly" + 0.013*"cafe" + 0.013*"eat"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.019*"auckland" + 0.017*"food" + 0.017*"delicious" + 0.016*"afternoon" + 0.016*"steak" + 0.016*"love" + 0.015*"two" + 0.015*"partner" + 0.014*"friendly" + 0.014*"flat"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"egg" + 0.014*"brunch" + 0.014*"glad" + 0.014*"scene"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic diff=0.005533, rho=0.353553
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.363 per-word bound, 329.3 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 7, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"crowd" + 0.013*"young" + 0.013*"perhaps" + 0.013*"whiskey"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.019*"auckland" + 0.017*"food" + 0.017*"delicious" + 0.016*"love" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"partner" + 0.015*"two" + 0.014*"friendly" + 0.014*"flat"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.030*"sushi" + 0.024*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.018*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.031*"night" + 0.024*"chicken" + 0.019*"sushi" + 0.019*"across" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"taco" + 0.014*"lucky" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic diff=0.004338, rho=0.333333
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.361 per-word bound, 328.9 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 8, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"cocktail" + 0.016*"honestly"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.031*"night" + 0.024*"chicken" + 0.019*"sushi" + 0.019*"across" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"taco" + 0.014*"lucky" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"egg" + 0.014*"brunch" + 0.014*"scene" + 0.014*"glad"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.031*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.018*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic diff=0.003371, rho=0.316228
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.360 per-word bound, 328.7 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 9, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.031*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"taco" + 0.014*"lucky" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"perhaps" + 0.013*"whiskey"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.031*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.017*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic diff=0.002579, rho=0.301511
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.360 per-word bound, 328.5 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 10, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"delicious" + 0.017*"love" + 0.016*"afternoon" + 0.016*"partner" + 0.016*"steak" + 0.015*"two" + 0.014*"friendly" + 0.014*"flat"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"honestly" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.031*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic diff=0.001947, rho=0.288675
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.360 per-word bound, 328.5 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 11, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"honestly" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"perhaps" + 0.013*"whiskey"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"brunch" + 0.014*"egg" + 0.014*"scene" + 0.014*"glad"
+INFO:gensim.models.ldamodel:topic diff=0.001456, rho=0.277350
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 12, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.014*"friendly" + 0.014*"location"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"decor" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"brunch" + 0.014*"egg" + 0.014*"scene" + 0.014*"glad"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.032*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.017*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.025*"wine" + 0.021*"lost" + 0.016*"taking" + 0.016*"atmosphere" + 0.016*"list" + 0.016*"coffee" + 0.016*"spot" + 0.015*"friendly" + 0.013*"thai" + 0.013*"cafe"
+INFO:gensim.models.ldamodel:topic diff=0.001084, rho=0.267261
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 13, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.032*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"perhaps" + 0.013*"whiskey"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.019*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.014*"generous" + 0.014*"street" + 0.014*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.014*"friendly" + 0.014*"location"
+INFO:gensim.models.ldamodel:topic diff=0.000807, rho=0.258199
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 14, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"decor" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.019*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.014*"generous" + 0.014*"street" + 0.014*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"perhaps" + 0.013*"whiskey"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.014*"location" + 0.014*"friendly"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.032*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.017*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic diff=0.000601, rho=0.250000
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 15, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.032*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"egg" + 0.014*"brunch" + 0.014*"scene" + 0.014*"glad"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"perhaps" + 0.013*"whiskey"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"decor" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic diff=0.000450, rho=0.242536
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 16, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"brunch" + 0.014*"egg" + 0.014*"scene" + 0.014*"glad"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.019*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.015*"generous" + 0.014*"street" + 0.014*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.032*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic diff=0.000338, rho=0.235702
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 17, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.032*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.017*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.025*"wine" + 0.021*"lost" + 0.016*"taking" + 0.016*"atmosphere" + 0.016*"list" + 0.016*"coffee" + 0.016*"spot" + 0.015*"friendly" + 0.013*"thai" + 0.013*"cafe"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"egg" + 0.014*"brunch" + 0.014*"scene" + 0.014*"glad"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.015*"location" + 0.014*"friendly"
+INFO:gensim.models.ldamodel:topic diff=0.000256, rho=0.229416
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 18, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.032*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.017*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.032*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.015*"location" + 0.014*"friendly"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"decor" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic diff=0.000195, rho=0.223607
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 19, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.025*"wine" + 0.021*"lost" + 0.016*"taking" + 0.016*"atmosphere" + 0.016*"list" + 0.016*"coffee" + 0.016*"spot" + 0.015*"friendly" + 0.013*"thai" + 0.013*"cafe"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"decor" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.032*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.032*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.017*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"egg" + 0.014*"brunch" + 0.014*"scene" + 0.014*"glad"
+INFO:gensim.models.ldamodel:topic diff=0.000149, rho=0.218218
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 20, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.032*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.017*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"decor" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.015*"location" + 0.014*"friendly"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.032*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic diff=0.000115, rho=0.213201
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 21, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.015*"location" + 0.014*"friendly"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"perhaps" + 0.013*"whiskey"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.032*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.025*"wine" + 0.021*"lost" + 0.016*"taking" + 0.016*"atmosphere" + 0.016*"list" + 0.016*"coffee" + 0.016*"spot" + 0.015*"friendly" + 0.013*"thai" + 0.013*"cafe"
+INFO:gensim.models.ldamodel:topic diff=0.000088, rho=0.208514
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 22, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"perhaps" + 0.013*"whiskey"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.015*"location" + 0.014*"friendly"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.019*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.015*"generous" + 0.014*"street" + 0.014*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"brunch" + 0.014*"egg" + 0.014*"scene" + 0.014*"glad"
+INFO:gensim.models.ldamodel:topic diff=0.000069, rho=0.204124
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 23, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.019*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.015*"generous" + 0.014*"street" + 0.014*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"brunch" + 0.014*"egg" + 0.014*"scene" + 0.014*"glad"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"decor" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"perhaps" + 0.013*"whiskey"
+INFO:gensim.models.ldamodel:topic diff=0.000054, rho=0.200000
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 24, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"perhaps" + 0.013*"whiskey"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.032*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.017*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.025*"wine" + 0.021*"lost" + 0.016*"taking" + 0.016*"atmosphere" + 0.016*"list" + 0.016*"coffee" + 0.016*"spot" + 0.015*"friendly" + 0.013*"thai" + 0.013*"cafe"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.015*"location" + 0.014*"friendly"
+INFO:gensim.models.ldamodel:topic diff=0.000043, rho=0.196116
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 25, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"decor" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.025*"wine" + 0.021*"lost" + 0.016*"taking" + 0.016*"atmosphere" + 0.016*"list" + 0.016*"coffee" + 0.016*"spot" + 0.015*"friendly" + 0.013*"thai" + 0.013*"cafe"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"brunch" + 0.014*"egg" + 0.014*"scene" + 0.014*"glad"
+INFO:gensim.models.ldamodel:topic diff=0.000034, rho=0.192450
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 26, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.019*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.015*"generous" + 0.014*"street" + 0.014*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.032*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.017*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.025*"wine" + 0.021*"lost" + 0.016*"taking" + 0.016*"atmosphere" + 0.016*"list" + 0.016*"coffee" + 0.016*"spot" + 0.015*"friendly" + 0.013*"thai" + 0.013*"cafe"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"whiskey" + 0.013*"perhaps"
+INFO:gensim.models.ldamodel:topic diff=0.000027, rho=0.188982
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 27, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"brunch" + 0.014*"egg" + 0.014*"scene" + 0.014*"glad"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"whiskey" + 0.013*"perhaps"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.019*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.015*"generous" + 0.014*"street" + 0.014*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic diff=0.000022, rho=0.185695
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 28, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.015*"location" + 0.014*"friendly"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.019*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.015*"generous" + 0.014*"street" + 0.014*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.032*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"brunch" + 0.014*"egg" + 0.014*"scene" + 0.014*"glad"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"whiskey" + 0.013*"perhaps"
+INFO:gensim.models.ldamodel:topic diff=0.000017, rho=0.182574
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 29, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.032*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.032*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.017*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"whiskey" + 0.013*"perhaps"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"brunch" + 0.014*"egg" + 0.014*"scene" + 0.014*"glad"
+INFO:gensim.models.ldamodel:topic diff=0.000014, rho=0.179605
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 30, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.019*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.015*"generous" + 0.014*"street" + 0.014*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"whiskey" + 0.013*"perhaps"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"brunch" + 0.014*"egg" + 0.014*"scene" + 0.014*"glad"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.015*"location" + 0.014*"friendly"
+INFO:gensim.models.ldamodel:topic diff=0.000011, rho=0.176777
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 31, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"decor" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.032*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.017*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.025*"wine" + 0.021*"lost" + 0.016*"taking" + 0.016*"atmosphere" + 0.016*"list" + 0.016*"coffee" + 0.016*"spot" + 0.015*"friendly" + 0.013*"thai" + 0.013*"cafe"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.019*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.015*"generous" + 0.014*"street" + 0.014*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic diff=0.000009, rho=0.174078
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 32, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.019*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.015*"generous" + 0.014*"street" + 0.014*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"whiskey" + 0.013*"perhaps"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.025*"wine" + 0.021*"lost" + 0.016*"taking" + 0.016*"atmosphere" + 0.016*"list" + 0.016*"coffee" + 0.016*"spot" + 0.015*"friendly" + 0.013*"thai" + 0.013*"cafe"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.015*"location" + 0.014*"friendly"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.032*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic diff=0.000007, rho=0.171499
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 33, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.019*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.015*"generous" + 0.014*"street" + 0.014*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"brunch" + 0.014*"egg" + 0.014*"scene" + 0.014*"glad"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.015*"location" + 0.014*"friendly"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.032*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic diff=0.000006, rho=0.169031
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 34, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.032*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.019*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.015*"generous" + 0.014*"street" + 0.014*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"decor" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.025*"wine" + 0.021*"lost" + 0.016*"taking" + 0.016*"atmosphere" + 0.016*"list" + 0.016*"coffee" + 0.016*"spot" + 0.015*"friendly" + 0.013*"thai" + 0.013*"cafe"
+INFO:gensim.models.ldamodel:topic diff=0.000005, rho=0.166667
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 35, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"decor" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.019*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.015*"generous" + 0.014*"street" + 0.014*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.032*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.017*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic diff=0.000004, rho=0.164399
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 36, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.015*"location" + 0.014*"friendly"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"decor" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.032*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.017*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.032*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic diff=0.000004, rho=0.162221
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 37, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.015*"location" + 0.014*"friendly"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.019*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.015*"generous" + 0.014*"street" + 0.014*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.032*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.017*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"decor" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic diff=0.000003, rho=0.160128
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 38, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.032*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.017*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"decor" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.015*"location" + 0.014*"friendly"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.019*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.015*"generous" + 0.014*"street" + 0.014*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic diff=0.000003, rho=0.158114
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 39, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.019*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.015*"generous" + 0.014*"street" + 0.014*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"brunch" + 0.014*"egg" + 0.014*"scene" + 0.014*"glad"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.025*"wine" + 0.021*"lost" + 0.016*"taking" + 0.016*"atmosphere" + 0.016*"list" + 0.016*"coffee" + 0.016*"spot" + 0.015*"friendly" + 0.013*"thai" + 0.013*"cafe"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic diff=0.000002, rho=0.156174
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 40, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.032*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.015*"location" + 0.014*"friendly"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.032*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.017*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.019*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.015*"generous" + 0.014*"street" + 0.014*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic diff=0.000002, rho=0.154303
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 41, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.019*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.015*"generous" + 0.014*"street" + 0.014*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"brunch" + 0.014*"egg" + 0.014*"scene" + 0.014*"glad"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"decor" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"whiskey" + 0.013*"perhaps"
+INFO:gensim.models.ldamodel:topic diff=0.000002, rho=0.152499
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 42, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.015*"location" + 0.014*"friendly"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"brunch" + 0.014*"egg" + 0.014*"scene" + 0.014*"glad"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"whiskey" + 0.013*"perhaps"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"decor" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic diff=0.000001, rho=0.150756
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 43, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.015*"location" + 0.014*"friendly"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.032*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.032*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.017*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.025*"wine" + 0.021*"lost" + 0.016*"taking" + 0.016*"atmosphere" + 0.016*"list" + 0.016*"coffee" + 0.016*"spot" + 0.015*"friendly" + 0.013*"thai" + 0.013*"cafe"
+INFO:gensim.models.ldamodel:topic diff=0.000001, rho=0.149071
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 44, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"decor" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.032*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.025*"wine" + 0.021*"lost" + 0.016*"taking" + 0.016*"atmosphere" + 0.016*"list" + 0.016*"coffee" + 0.016*"spot" + 0.015*"friendly" + 0.013*"thai" + 0.013*"cafe"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.032*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.017*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic diff=0.000001, rho=0.147442
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 45, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.032*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"whiskey" + 0.013*"perhaps"
+INFO:gensim.models.ldamodel:topic #8 (0.001): 0.019*"nights" + 0.015*"eastern" + 0.015*"middle" + 0.015*"generous" + 0.014*"street" + 0.014*"fried" + 0.013*"experience" + 0.013*"tasty" + 0.013*"hotel" + 0.012*"eat"
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.015*"location" + 0.014*"friendly"
+INFO:gensim.models.ldamodel:topic diff=0.000001, rho=0.145865
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 46, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #3 (0.001): 0.018*"auckland" + 0.017*"food" + 0.017*"love" + 0.017*"delicious" + 0.016*"partner" + 0.016*"afternoon" + 0.016*"steak" + 0.015*"two" + 0.015*"location" + 0.014*"friendly"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"whiskey" + 0.013*"perhaps"
+INFO:gensim.models.ldamodel:topic #7 (0.001): 0.035*"fresh" + 0.024*"food" + 0.018*"variety" + 0.016*"daily" + 0.014*"visit" + 0.014*"fantastic" + 0.013*"tables" + 0.013*"served" + 0.013*"coffee" + 0.013*"awesome"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.032*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.025*"wine" + 0.021*"lost" + 0.016*"taking" + 0.016*"atmosphere" + 0.016*"list" + 0.016*"coffee" + 0.016*"spot" + 0.015*"friendly" + 0.013*"thai" + 0.013*"cafe"
+INFO:gensim.models.ldamodel:topic diff=0.000001, rho=0.144338
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 47, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"whiskey" + 0.013*"perhaps"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.032*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.017*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"decor" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.025*"wine" + 0.021*"lost" + 0.016*"taking" + 0.016*"atmosphere" + 0.016*"list" + 0.016*"coffee" + 0.016*"spot" + 0.015*"friendly" + 0.013*"thai" + 0.013*"cafe"
+INFO:gensim.models.ldamodel:topic diff=0.000001, rho=0.142857
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 48, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.032*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic #4 (0.001): 0.032*"sushi" + 0.025*"staff" + 0.020*"zealand" + 0.020*"knowledgeable" + 0.019*"die" + 0.018*"cakes" + 0.018*"ponsonby" + 0.017*"always" + 0.017*"experience" + 0.015*"variety"
+INFO:gensim.models.ldamodel:topic #1 (0.001): 0.018*"pork" + 0.015*"auckland" + 0.015*"head" + 0.015*"catch" + 0.014*"notch" + 0.014*"poached" + 0.014*"brunch" + 0.014*"egg" + 0.014*"scene" + 0.014*"glad"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"whiskey" + 0.013*"perhaps"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic diff=0.000001, rho=0.141421
+DEBUG:gensim.models.ldamodel:bound: at document #0
+INFO:gensim.models.ldamodel:-8.359 per-word bound, 328.4 perplexity estimate based on a held-out corpus of 128 documents with 311 words
+INFO:gensim.models.ldamodel:PROGRESS: pass 49, at document #128/128
+DEBUG:gensim.models.ldamodel:performing inference on a chunk of 128 documents
+DEBUG:gensim.models.ldamodel:128/128 documents converged within 50 iterations
+DEBUG:gensim.models.ldamodel:updating topics
+INFO:gensim.models.ldamodel:topic #9 (0.001): 0.025*"wine" + 0.021*"lost" + 0.016*"taking" + 0.016*"atmosphere" + 0.016*"list" + 0.016*"coffee" + 0.016*"spot" + 0.015*"friendly" + 0.013*"thai" + 0.013*"cafe"
+INFO:gensim.models.ldamodel:topic #5 (0.001): 0.032*"night" + 0.024*"chicken" + 0.019*"across" + 0.018*"sushi" + 0.017*"ordered" + 0.016*"dinner" + 0.014*"lucky" + 0.014*"taco" + 0.014*"super" + 0.013*"auckland"
+INFO:gensim.models.ldamodel:topic #2 (0.001): 0.023*"times" + 0.018*"belly" + 0.016*"breakfast" + 0.016*"lunch" + 0.014*"ponsonby" + 0.014*"ice" + 0.013*"young" + 0.013*"crowd" + 0.013*"whiskey" + 0.013*"perhaps"
+INFO:gensim.models.ldamodel:topic #0 (0.001): 0.031*"dinner" + 0.025*"bar" + 0.024*"love" + 0.023*"husband" + 0.021*"well" + 0.019*"turkish" + 0.017*"server" + 0.017*"friendly" + 0.016*"decor" + 0.016*"cocktail"
+INFO:gensim.models.ldamodel:topic #6 (0.001): 0.021*"meat" + 0.021*"pies" + 0.020*"service" + 0.019*"barista" + 0.018*"fatima" + 0.017*"especially" + 0.017*"free" + 0.017*"yakitori" + 0.017*"menu" + 0.016*"restaurant"
+INFO:gensim.models.ldamodel:topic diff=0.000000, rho=0.140028
