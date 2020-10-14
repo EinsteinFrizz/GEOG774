@@ -190,6 +190,7 @@ logging.info("starting LDA model")
 
 model = models. ldamodel.LdaModel(corpus_tfidf, id2word=dictionary, alpha=0.001, num_topics=10, update_every=0, passes=50)
 
+<<<<<<< Updated upstream
 pp(model.show_topics())
 
 # %% OUTPUT TO CSV
@@ -378,3 +379,7 @@ csv_file.close()
 ##    #current error is that the stuff inside writerows() needs to be iterable
 ##
 ##csv_file.close()
+=======
+#pp(model.show_topics()) #prints out the topics and their match value
+
+>>>>>>> Stashed changes
