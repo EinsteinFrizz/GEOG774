@@ -192,6 +192,14 @@ model = models. ldamodel.LdaModel(corpus_tfidf, id2word=dictionary, alpha=0.001,
 
 pp(model.show_topics())
 
+# %% OUTPUT TO CSV
+with open('output_yelp.csv','w') as csv_file:
+    writer = csv.writer(csv_file) #defines writer function
+    writer.writerows(model.show_topics(formatted=False)) #writes the information to the csv
+    #current error is that the stuff inside writerows() needs to be iterable
+
+csv_file.close()
+
 # %% COPY OF THINGS FOR SECOND PART
 
 ## %% LOAD FILE INTO PYTHON
