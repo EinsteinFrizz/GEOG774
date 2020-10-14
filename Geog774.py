@@ -192,6 +192,8 @@ model = models. ldamodel.LdaModel(corpus_tfidf, id2word=dictionary, alpha=0.001,
 
 pp(model.show_topics())
 
+# %% COPY OF THINGS FOR SECOND PART
+
 ## %% LOAD FILE INTO PYTHON
 #with open('rev_subset_50k.json',encoding='utf8') as f:
 #        lines = f.readlines()
