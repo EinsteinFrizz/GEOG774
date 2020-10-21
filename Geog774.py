@@ -27,7 +27,7 @@ import json #was getting error 'name json is not defined' for dump
 endpoint = 'https://api.yelp.com/v3/businesses/search'
 headers = {'Authorization':'Bearer l_zg3FKea0qKiF8ql_cEcSzTJe_keKB2S_O15T2ZV-BitVeLQHnfjkC3Z7Ukkk2n9h61KDb04iw3CDPhjLIxdALd85B4Fp9f5_nA47Br5oDmlC9Zjd-yo1Kg6Ql0X3Yx'} #this is my API key
 
-params = {'latitude':'-36.84845' , 'longitude':'174.743888' , 'limit':'50' , 'radius':'500'}
+params = {'latitude':'-36.848460' , 'longitude':'174.743821' , 'limit':'50' , 'radius':'500'}
 
 payload = requests.get(endpoint,params=params,headers=headers).json()
 
