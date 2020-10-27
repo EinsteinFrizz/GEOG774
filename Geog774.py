@@ -23,20 +23,36 @@ import warnings
 warnings.filterwarnings("ignore",category=DeprecationWarning)
 import json #was getting error 'name json is not defined' for dump
 
-# %% SETTING UP YELP API
-endpoint = 'https://api.yelp.com/v3/businesses/search'
-headers = {'Authorization':'Bearer l_zg3FKea0qKiF8ql_cEcSzTJe_keKB2S_O15T2ZV-BitVeLQHnfjkC3Z7Ukkk2n9h61KDb04iw3CDPhjLIxdALd85B4Fp9f5_nA47Br5oDmlC9Zjd-yo1Kg6Ql0X3Yx'} #this is my API key
+## %% SETTING UP YELP API
+#endpoint = 'https://api.yelp.com/v3/businesses/search'
+#headers = {'Authorization':'Bearer l_zg3FKea0qKiF8ql_cEcSzTJe_keKB2S_O15T2ZV-BitVeLQHnfjkC3Z7Ukkk2n9h61KDb04iw3CDPhjLIxdALd85B4Fp9f5_nA47Br5oDmlC9Zjd-yo1Kg6Ql0X3Yx'} #this is my API key
+#
+#params = {'latitude':'-36.872' , 'longitude':'174.74' , 'limit':'50' , 'radius':'500'}
+#
+#payload = requests.get(endpoint,params=params,headers=headers).json()
+#
+## %% READING FROM YELP API
+#with open('yelp.json','w') as f:
+#    json.dump(payload,f)
+#
+# %% LOAD FILE INTO PYTHON
+with open('rev_subset_50k.json',encoding='utf8') as f:
+        lines = f.readlines()
 
-params = {'latitude':'-36.872' , 'longitude':'174.74' , 'limit':'50' , 'radius':'500'}
+documents = []
 
-payload = requests.get(endpoint,params=params,headers=headers).json()
+for line in lines:
+        d = ast.literal_eval(str(line)[:-1])
+        documents.append(d['text'])
+#from here just do the same as earlier
 
-# %% READING FROM YELP API
-with open('yelp.json','w') as f:
+# %% READING THE THINGS
+with open('rev_subset_50k.json','w') as f:
     json.dump(payload,f)
 
 #payload_good = [['name','rating','url','price','lat','long','category']]
 payload_review = [['Name','Bus_ID','Rating','Url','Price','Lat','Long','Category','Review_1','Review_2','Review_3']]
+
 
 for business in payload['businesses']: #for loop iterates through each entry in the array - for (variable/each item) in dictionary[array]
     lat = str(business['coordinates']['latitude']) #set variable to the string of latitude value found in the coordinates key dictionary --> latitude
