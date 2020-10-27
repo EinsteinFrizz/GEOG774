@@ -39,49 +39,52 @@ import json #was getting error 'name json is not defined' for dump
 with open('rev_subset_50k.json',encoding='utf8') as f:
         lines = f.readlines()
 
-documents = []
+payload = []
 
 for line in lines:
         d = ast.literal_eval(str(line)[:-1])
-        documents.append(d['text'])
+        payload.append(d['text'])
 #from here just do the same as earlier
 
 # %% READING THE THINGS
-with open('rev_subset_50k.json','w') as f:
-    json.dump(payload,f)
+#with open('rev_subset_50k.json','w') as f:
+#    json.dump(payload,f)
 
 #payload_good = [['name','rating','url','price','lat','long','category']]
-payload_review = [['Name','Bus_ID','Rating','Url','Price','Lat','Long','Category','Review_1','Review_2','Review_3']]
+#payload_review = [['Name','Bus_ID','Rating','Url','Price','Lat','Long','Category','Review_1','Review_2','Review_3']]
+payload2 = [['Index','Bus_ID','Review_1','Review_2','Review_3']]
 
-
-for business in payload['businesses']: #for loop iterates through each entry in the array - for (variable/each item) in dictionary[array]
-    lat = str(business['coordinates']['latitude']) #set variable to the string of latitude value found in the coordinates key dictionary --> latitude
-    lon = str(business['coordinates']['longitude']) #set variable to the string of longitude value
-    name = str(business['name']) #set variable to the string of name of the business
-    url = str(business['url']) #set variable to the string of URL of the business
-    price = business['price'] if 'price' in business else "null" #set variable to the priciness of the business if it is defined, otherwise set it to 'null' string
-    rating = str(business['rating']) #set variable to the string of rating of the business
-    category = str(business['categories'][0]['title']) #set variable to the string of the first category that the business fits in, using the 'title' value
+for line in payload: #for loop iterates through each entry in the array - for (variable/each item) in dictionary[array]
+#    lat = str(business['coordinates']['latitude']) #set variable to the string of latitude value found in the coordinates key dictionary --> latitude
+#    lon = str(business['coordinates']['longitude']) #set variable to the string of longitude value
+#    name = str(business['name']) #set variable to the string of name of the business
+#    url = str(business['url']) #set variable to the string of URL of the business
+#    price = business['price'] if 'price' in business else "null" #set variable to the priciness of the business if it is defined, otherwise set it to 'null' string
+#    rating = str(business['rating']) #set variable to the string of rating of the business
+#    category = str(business['categories'][0]['title']) #set variable to the string of the first category that the business fits in, using the 'title' value
     
-    busID = business['id'] #added this for the second part of instructions
+    index = 0
+    index += 1
     
-    r = requests.get('https://api.yelp.com/v3/businesses/'+busID+'/reviews',params={},headers=headers).json() #asking a different part of Yelp for review data
+    busID = payload['business_id'] #added this for the second part of instructions
     
-    n = len(r['reviews'])
+#    r = requests.get('https://api.yelp.com/v3/businesses/'+busID+'/reviews',params={},headers=headers).json() #asking a different part of Yelp for review data
+    
+    n = len(payload['text'])
     review1,review2,review3 = 'null','null','null' #initialises variables
-    if n > 0: review1 = r['reviews'][0]['text'] #adds 'text' value from the review data to the variable review1 if there is at least one review
-    if n > 1: review2 = r['reviews'][1]['text'] #adds 'text' value from the review data to the variable review2 if there are at least two reviews
-    if n > 2: review3 = r['reviews'][2]['text'] #adds 'text' value from the review data to the variable review3 if there are at least three reviews
+    if n > 0: review1 = payload['text'][0]['text'] #adds 'text' value from the review data to the variable review1 if there is at least one review
+    if n > 1: review2 = payload['text'][1]['text'] #adds 'text' value from the review data to the variable review2 if there are at least two reviews
+    if n > 2: review3 = payload['text'][2]['text'] #adds 'text' value from the review data to the variable review3 if there are at least three reviews
     
-    l = [name,busID,rating,url,price,lat,lon,category,review1,review2,review3] #creates an array with the variables we have just defined based on the dictionary query
+    l = [index,busID,review1,review2,review3] #creates an array with the variables we have just defined based on the dictionary query
     
-    #print(l) #prints out the list of information - this is a lot
+    print(l) #prints out the list of information - this is a lot
     
-    payload_review.append(l) #adds the individual busness array to the payload_review array
+    payload2.append(l) #adds the individual busness array to the payload_review array
 
 with open('yelp.csv','w') as csv_file:
     writer = csv.writer(csv_file) #defines writer function
-    writer.writerows(payload_review) #writes the information from the created array to the csv
+    writer.writerows(payload2) #writes the information from the created array to the csv
 
 csv_file.close()
 
